@@ -1,0 +1,8 @@
+python
+pandas 
+numpy 
+open_spiel
+numba
+ray
+tqdm
+seaborn
